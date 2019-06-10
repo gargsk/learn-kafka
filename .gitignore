@@ -1,0 +1,7 @@
+.classpath
+.project
+kafkacode-workspace.code-workspace
+.vscode/
+.settings/
+target/
+target/
